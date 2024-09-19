@@ -2,7 +2,7 @@
   "name": "qap1-cli",
   "version": "1.0.0",
   "bin": {
-      "qap1-cli": "./index.js"
+    "qap1-cli": "./index.js"
   },
   "description": "Password generator",
   "main": "index.js",
@@ -14,9 +14,5 @@
     "url": "git+https://github.com/BrianJackman/Fullstack-Javascript-QAP1.git"
   },
   "author": "Brian Jackman",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/BrianJackman/Fullstack-Javascript-QAP1/issues"
-  },
-  "homepage": "https://github.com/BrianJackman/Fullstack-Javascript-QAP1#readme"
+  "license": "ISC"
 }
